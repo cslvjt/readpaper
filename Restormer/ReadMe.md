@@ -29,5 +29,15 @@ https://arxiv.org/abs/2111.09881
 + 新的block：GDFN和MDTA
 + [Restormer code](Restormer/introduction.ipynb)
 ## NAFNet
-
-## Revisiting Global_Statistics_Aggregation
+http://arxiv.org/abs/2204.04676
+### 所做的贡献以及解决的问题
++ 提出一个新的图像恢复领域的baseline，SOTA
++ 通过用数学的方式或者直接去除，搭建一个无激活函数的网络
++ 块内复杂性和块间复杂性的概念（related work）
++ [NAFNet code](NAFNet/introduction.ipynb)
+## Improving Image Restoration by Revisiting Global Information Aggregation
+http://arxiv.org/abs/2112.04491
+### 所做的贡献以及解决的问题
++ 第一个提出基于patch训练和基于全图像测试中统计分布的变化可能会导致性能下降
++ 为了实际减少训练和测试之间的统计分布变化，作者分析了现有方法的缺点，并提出了TLC,以弥合训练和推理之间的信息聚合差距。全局操作（例如，SE模块中的全球平均池[13]中的全局平均池）仅在推理期间转换为局部操作，因此它们像训练阶段一样在本地空间区域内汇总特征。因此推理期间的整个基于图像的“本地”信息具有与基于补丁的“全局”信息分布相似。TLC在不进行重新训练或微调的情况下，取代了从全局到局部的统计汇总操作，通过减少训练测试不一致大大提高性能
++ [code](RGIA/introduction.ipynb)
