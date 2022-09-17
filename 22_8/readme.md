@@ -1,5 +1,3 @@
-# 文件夹介绍
-MLP应用在计算机视觉领域的论文
 ## gMLP
 [pay attention to mlps](http://arxiv.org/abs/2105.08050)
 ### 贡献及解决的难点
