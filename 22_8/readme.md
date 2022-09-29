@@ -51,7 +51,7 @@ http://arxiv.org/abs/2108.05054
 + 类UNet架构，简单但有效
 + 采用的非对称特征融合在多阶段中很有用
 + [MIMO-UNet code](MIMO-UNet/MIMO-UNet.ipynb)
-+ ## Restormer
+## Restormer
 https://arxiv.org/abs/2111.09881
 ### 所做的贡献以及解决的问题
 + 将transformer应用到图像恢复领域
