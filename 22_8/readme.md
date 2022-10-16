@@ -1,5 +1,4 @@
 ## 目前难点
-+ MAXIM
 + RGIA
 
 ## gMLP
