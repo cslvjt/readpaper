@@ -7,6 +7,7 @@
 [NTIRE 2022 Challenge on Efficient Super-Resolution: Methods and Results](https://ieeexplore.ieee.org/document/9857089
 )
 
+仅仅阅读文中3.1节architectures and main ideas
 ## 作者贡献
 主要介绍NTIRE2022年的冠军方案。
 
