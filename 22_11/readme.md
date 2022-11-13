@@ -13,3 +13,6 @@
 
 # shuffleMixer
 [ShuffleMixer: An Efficient ConvNet for Image Super-Resolution](https://arxiv.org/pdf/2205.15175.pdf)
+
+# Space-Variant Single-Image Blind Deconvolution for Removing Camera Shake
+[Space-Variant Single-Image Blind Deconvolution for Removing Camera Shake](https://proceedings.neurips.cc/paper/2010/file/7f5d04d189dfb634e6a85bb9d9adf21e-Paper.pdf)
